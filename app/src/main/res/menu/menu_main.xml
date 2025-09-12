@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_language"
+        android:title="Language"
+        android:icon="@drawable/ic_more_vert1"
+        app:showAsAction="always">
+
+        <menu>
+            <item android:id="@+id/lang_en"
+                android:title="@string/lang_en"/>
+            <item android:id="@+id/lang_hi"
+                android:title="@string/lang_hi"/>
+            <item android:id="@+id/lang_or"
+                android:title="@string/lang_or"/>
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">HistoryandCulture</string>
+    <string name="title_home">
+        Explore Heritage in\nAR</string>
+    <string name="subtitle_home">Discover history through
+    immersive\nexperiences</string>
+    <string name="neraby_sites" tools:ignore="MissingTranslation">Nearby Sites</string>
+    <string name="nearby_sites_desc">Explore historical landmarks around you.</string>
+
+    <string name="virtual_tours">Virtual Tours</string>
+    <string name="virtual_tours_desc">Immerse yourself in AR guided experiences.</string>
+    "
+
+    <string name="history_stories">History Stories</string>
+    <string name="history_stories_desc">Uncover rich narratives behind artifacts.</string>"
+
+    <string name="ar_artifacts">AR Artifacts</string>
+    <string name="ar_artifacts_desc">Digitally interact with ancient treasures.</string>
+
+    <string name="lang_en">English</string>
+    <string name="lang_hi">हिंदी</string>
+    <string name="lang_or">ଓଡ଼ିଆ</string>
+
+    <style name="Theme.HistoryandCulture" parent="Theme.AppCompat.Light.NoActionBar">
+
+    </style>
+
+</resources>

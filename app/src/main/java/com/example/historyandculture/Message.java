@@ -1,0 +1,21 @@
+package com.example.historyandculture;
+
+public class Message {
+    private String content;
+    private boolean isUser; // true = user, false = AI
+
+    public Message(String content, boolean isUser) {
+        this.content = content;
+        this.isUser = isUser;
+    }
+
+    public String getContent() {
+        return content;
+    }
+
+    public boolean isUser() {
+        return isUser;
+    }
+}
+
+

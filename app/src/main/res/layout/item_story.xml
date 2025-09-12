@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    app:cardCornerRadius="16dp"
+    app:cardUseCompatPadding="true"
+    app:cardPreventCornerOverlap="true"
+    app:cardBackgroundColor="#F7FFFE"
+    app:cardElevation="5dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#F7FFFE"
+        android:padding="8dp">
+
+     <androidx.cardview.widget.CardView
+         android:layout_width="match_parent"
+         android:layout_height="180dp"
+         app:cardCornerRadius="16dp"
+         app:cardUseCompatPadding="true"
+         app:cardPreventCornerOverlap="true">
+
+         <ImageView
+             android:id="@+id/storyImage"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:adjustViewBounds="true"
+             android:scaleType="centerCrop"
+             android:background="#F7FFFE"
+             android:src="@drawable/ic_sarnath"/>
+     </androidx.cardview.widget.CardView>
+
+
+        <TextView
+            android:id="@+id/storyTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="SARNATH"
+            android:textSize="20sp"
+            android:layout_gravity="center"
+            android:fontFamily="@font/poppins_semibold"
+            android:textStyle="normal"
+            android:textColor="@android:color/black" />
+
+        <TextView
+            android:id="@+id/storyYear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="(5th century BCE -6th centure CE)"
+            android:layout_gravity="center"
+            android:textSize="16sp"
+            android:fontFamily="@font/poppins_semibold"
+            android:textColor="#555555" />
+
+
+
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
