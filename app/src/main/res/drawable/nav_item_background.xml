@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Jab item select hoga -->
+    <item android:drawable="@drawable/bg_circle" android:state_checked="true"/>
+    <!-- Normal state me transparent -->
+    <item android:drawable="@android:color/transparent"/>
+</selector>

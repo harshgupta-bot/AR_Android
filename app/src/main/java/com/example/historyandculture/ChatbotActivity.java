@@ -31,8 +31,6 @@ public class ChatbotActivity extends AppCompatActivity {
 
     private final OkHttpClient client = new OkHttpClient();
     private static final MediaType JSON = MediaType.get("application/json; charset=utf-8");
-
-    // Apni Gemini API key daalo (manifest ya BuildConfig se lena best hai)
     private static final String GEMINI_API_KEY = "AIzaSyAZXsPlu18MC7JZq4YzDbdOdwN2caV5LdQ";
     private static final String MODEL = "gemini-1.5-flash";
 

@@ -8,10 +8,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="menu_text">#000000</color>
 
-    <!-- 👇 ye naya color add karo -->
+
+
     <color name="light_blue">#2196F3</color>
-    <color name="gradient_start">#2196F3</color> <!-- Light Blue -->
-    <color name="gradient_center">#21CBF3</color> <!-- Sky Blue -->
+    <color name="gradient_start">#2196F3</color>
+    <color name="gradient_center">#21CBF3</color>
     <color name="gradient_end">#00BCD4</color>
 </resources>

@@ -1,0 +1,49 @@
+<com.google.android.material.card.MaterialCardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    app:cardCornerRadius="16dp"
+    app:cardElevation="6dp"
+    android:backgroundTint="#1A1A1A">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <ImageView
+            android:id="@+id/cardIcon"
+            android:layout_width="35dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_explore"
+            app:tint="#E0B96D" />
+
+        <TextView
+            android:id="@+id/cardTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Card Title"
+            android:textColor="@android:color/white"
+            android:textSize="16sp"
+            android:layout_marginTop="8dp"
+            android:gravity="center"
+            android:fontFamily="@font/poppins_semibold"/>
+
+        <!-- 👇 New description -->
+        <TextView
+            android:id="@+id/cardDescription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is description text"
+            android:textColor="#BDBDBD"
+            android:textSize="14sp"
+            android:layout_marginTop="4dp"
+            android:gravity="center"
+            android:fontFamily="@font/poppins_semibold"/>
+
+    </LinearLayout>
+</com.google.android.material.card.MaterialCardView>

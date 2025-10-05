@@ -1,18 +1,18 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">HistoryandCulture</string>
-    <string name="title_home">
-        Explore Heritage in\nAR</string>
-    <string name="subtitle_home">Discover history through
-    immersive\nexperiences</string>
-    <string name="neraby_sites" tools:ignore="MissingTranslation">Nearby Sites</string>
+    <string name="title_home">Explore Heritage in</string>
+    <string name="titleAR">AR</string>
+    <string name="subtitle_home">Discover history through immersive</string>
+    <string name="titleexperinces">experiences</string>
+
+    <string name="nearby_sites" tools:ignore="MissingTranslation">Nearby Sites</string>
     <string name="nearby_sites_desc">Explore historical landmarks around you.</string>
 
     <string name="virtual_tours">Virtual Tours</string>
     <string name="virtual_tours_desc">Immerse yourself in AR guided experiences.</string>
-    "
 
     <string name="history_stories">History Stories</string>
-    <string name="history_stories_desc">Uncover rich narratives behind artifacts.</string>"
+    <string name="history_stories_desc">Uncover rich narratives behind artifacts.</string>
 
     <string name="ar_artifacts">AR Artifacts</string>
     <string name="ar_artifacts_desc">Digitally interact with ancient treasures.</string>
@@ -21,8 +21,18 @@
     <string name="lang_hi">हिंदी</string>
     <string name="lang_or">ଓଡ଼ିଆ</string>
 
-    <style name="Theme.HistoryandCulture" parent="Theme.AppCompat.Light.NoActionBar">
+    <style name="Theme.HistoryandCulture" parent="Theme.AppCompat.Light.NoActionBar"></style>
 
-    </style>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_community">Community</string>
+
+    <string name="profile_name">Harsh Gupta</string>
+    <string name="profile_email">harshguptas.e0940@gmail.com</string>
+    <string name="general">General</string>
+    <string name="about">About</string>
+    <string name="sign_out">Sign Out</string>
+
+    <string name="google_maps_key">AIzaSyAjEHhjJn3eXDUOQEgtlXRGAljyd6xAYBA</string>
 
 </resources>

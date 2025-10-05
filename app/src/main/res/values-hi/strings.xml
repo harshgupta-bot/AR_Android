@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">इतिहास और संस्कृति</string>
-    <string name="title_home">एआर में धरोहर खोजें</string>
-    <string name="subtitle_home">डूबकर अनुभवों के माध्यम से इतिहास जानें</string>
+    <string name="title_home">इतिहास का अन्वेषण</string>
+    <string name="titleAR">एआर</string>
+    <string name="subtitle_home">इतिहास का पता लगाएँ गहन</string>
+    <string name="titleexperinces">अनुभव</string>
 
     <string name="nearby_sites">नजदीकी स्थल</string>
     <string name="nearby_sites_desc">अपने आसपास के ऐतिहासिक स्थलों का अन्वेषण करें।</string>
@@ -15,6 +17,10 @@
 
     <string name="ar_artifacts">एआर कलाकृतियाँ</string>
     <string name="ar_artifacts_desc">प्राचीन खज़ानों के साथ डिजिटल रूप से जुड़ें।</string>
+
+    <string name="nav_home">होम</string>
+    <string name="nav_explore">अन्वेषण</string>
+    <string name="nav_community">समुदाय</string>
 
     <string name="lang_en">English</string>
     <string name="lang_hi">हिंदी</string>

@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">ଇତିହାସ ଓ ସଂସ୍କୃତି</string>
-    <string name="title_home">ଏଆର୍‌ରେ ଐତିହ୍ୟ ଅନ୍ୱେଷଣ କରନ୍ତୁ</string>
-    <string name="subtitle_home">ଆକର୍ଷଣୀୟ ଅନୁଭବ ମାଧ୍ୟମରେ ଇତିହାସ ଜାଣନ୍ତୁ</string>
+    <string name="title_home">ଇତିହାସକୁ ଅନୁସନ୍ଧାନ କରନ୍ତୁ</string>
+    <string name="titleAR">ଏ.ଆର୍</string>
+    <string name="subtitle_home">ଇତିହାସ କୁ ଖୋଜନ୍ତୁ ଗଭୀର</string>
+    <string name="titleexperinces">ଅନୁଭବ</string>
 
     <string name="nearby_sites">ନିକଟସ୍ଥ ସ୍ଥଳ</string>
     <string name="nearby_sites_desc">ଆପଣଙ୍କ ଚାରିପାଖରେ ଥିବା ଐତିହାସିକ ସ୍ଥଳଗୁଡ଼ିକ ଅନୁସନ୍ଧାନ କରନ୍ତୁ।</string>
@@ -16,7 +18,18 @@
     <string name="ar_artifacts">AR ପ୍ରତ୍ୟକ୍ଷ</string>
     <string name="ar_artifacts_desc">ପୁରାତନ ଧନ ସହିତ ଡିଜିଟାଲ୍ ଭାବେ ଯୁକ୍ତ ହୁଅନ୍ତୁ।</string>
 
+    <string name="nav_explore">ଅନୁସନ୍ଧାନ</string>
+    <string name="nav_home">ମୂଳ</string>
+    <string name="nav_community">ସମ୍ପ୍ରଦାୟ</string>
+
+    <string name="profile_name">ହର୍ଷ ଗୁପ୍ତା</string>
+    <string name="profile_email">harshguptas.e0940@gmail.com</string>
+    <string name="general">ସାଧାରଣ</string>
+    <string name="about">ବିଷୟରେ</string>
+    <string name="sign_out">ସାଇନ୍ ଆଉଟ୍</string>
+
     <string name="lang_en">English</string>
     <string name="lang_hi">हिंदी</string>
     <string name="lang_or">ଓଡ଼ିଆ</string>
+
 </resources>

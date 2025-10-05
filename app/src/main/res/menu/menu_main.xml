@@ -6,7 +6,8 @@
         android:id="@+id/action_language"
         android:title="Language"
         android:icon="@drawable/ic_more_vert1"
-        app:showAsAction="always">
+        app:showAsAction="always"
+        android:enabled="true">
 
         <menu>
             <item android:id="@+id/lang_en"
